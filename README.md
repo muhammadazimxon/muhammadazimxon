@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a student, learning Android development. Future study will be on block chains and<br>smart contracts.
+Secret.
 
 
 # 💻 Tech Stack:
