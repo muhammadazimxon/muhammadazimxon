@@ -14,7 +14,7 @@ Coding like poetry should be short and concise. 💎
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=muhammadazimxon&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-# I have some commercial projects which i can show because of NDA
+# I have some commercial projects which i can't show because of NDA
 
 ---
 [![](https://visitcount.itsvg.in/api?id=muhammadazimxon&icon=2&color=6)](https://visitcount.itsvg.in)
