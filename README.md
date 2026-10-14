@@ -18,3 +18,5 @@ Coding like poetry should be short and concise. 💎
 
 ---
 [![](https://visitcount.itsvg.in/api?id=muhammadazimxon&icon=2&color=6)](https://visitcount.itsvg.in)
+
+![](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME)
