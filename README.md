@@ -2,7 +2,7 @@
 
 # Hello there! 👋 I'm Muhammad Azimxon
 
-**Android & Software Developer**
+**Software Developer**
 
 <br/>
 
